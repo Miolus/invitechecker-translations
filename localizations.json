@@ -47,7 +47,7 @@
             "de":"Ändere die Verlassnachricht."
         }
     },
-    "options": {
+    "options_desc": {
         "user": {
             "de":"Wähle einen Nutzer."
         },
@@ -68,6 +68,26 @@
         },
         "channel": {
             "de":"Der Kanal, der festgelegt werden soll."
+        },
+    },
+    "options_name":{
+        "user": {
+            "de":"Nutzer"
+        },
+        "filter": {
+            "de":"Filter"
+        },
+        "page": {
+            "de":"Seite"
+        },
+        "count": {
+            "de":"Anzahl"
+        },
+        "msg": {
+            "de":"Nachricht"
+        },
+        "channel": {
+            "de":"Kanal"
         },
     }
 }
