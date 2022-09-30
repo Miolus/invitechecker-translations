@@ -13,12 +13,12 @@ See all locales at https://discord.com/developers/docs/reference#locales
 ```
 {commands: {
     command_name:{
-        language_key : "Translation"
+        language_key : "Description Translation"
     }
   },
   options: {
      option_name: {
-        language_key : "Translation"
+        language_key : "Description Translation"
       }
    }
 }
