@@ -1,0 +1,72 @@
+{   
+    "commands": {
+        "leaderboard": {
+            "de":"Zeige die Einladungs-Rangliste für deinen Server."
+            },
+        "g_start": {
+            "de":"Starte ein Giveaway."
+        },
+        "g_end": {
+            "de":"Beende das Giveaway."
+        },
+        "g_reroll": {
+            "de":""
+        },
+        "graph": {
+            "de":""
+        },
+        "userinfo": {
+            "de":""
+        },
+        "invites": {
+            "de":""
+            },
+        "c_add": {
+            "de":""
+        },
+        "c_remove": {
+            "de":""
+        },
+        "mylinks": {
+            "de":""
+        },
+        "config": {
+            "de":""
+        },
+        "ch_join": {
+            "de":""
+        },
+        "ch_leave": {
+            "de":""
+        },
+        "msg_join": {
+            "de":""
+        },
+        "msg_leave": {
+            "de":""
+        }
+    },
+    "options": {
+        "user": {
+            "de":"Wähle einen Nutzer."
+        },
+        "filter": {
+            "de":""
+        },
+        "page": {
+            "de":""
+        },
+        "countarg_rem": {
+            "de":""
+        },
+        "countarg_add": {
+            "de":""
+        },
+        "msg": {
+            "de":""
+        },
+        "channel": {
+            "de":""
+        },
+    }
+}
