@@ -1,4 +1,5 @@
-{   
+
+{
     "commands": {
         "leaderboard": {
             "de":"Zeige die Einladungs-Rangliste für deinen Server."
@@ -28,22 +29,22 @@
             "de":"Entferne Bonus Einladungen von einem Nutzer."
         },
         "mylinks": {
-            "de":""
+            "de":"Zeige deine Einladungs-Links."
         },
         "config": {
-            "de":""
+            "de":"Öffne die Einstellungsseite."
         },
         "ch_join": {
-            "de":""
+            "de":"Lege einen Kanal für Willkommensnachrichten fest."
         },
         "ch_leave": {
-            "de":""
+            "de":"Lege einen Kanal für Verlassnachrichten fest."
         },
         "msg_join": {
-            "de":""
+            "de":"Ändere die Willkommensnachricht."
         },
         "msg_leave": {
-            "de":""
+            "de":"Ändere die Verlassnachricht."
         }
     },
     "options": {
@@ -51,22 +52,22 @@
             "de":"Wähle einen Nutzer."
         },
         "filter": {
-            "de":""
+            "de":"Wähle einen Filter."
         },
         "page": {
-            "de":""
+            "de":"Wähle eine Seite."
         },
         "countarg_rem": {
-            "de":""
+            "de":"Wie viele Bonus Einladungen möchtest du entfernen?"
         },
         "countarg_add": {
-            "de":""
+            "de":"Wie viele Bonus Einladungen möchtest du hinzufügen?"
         },
         "msg": {
-            "de":""
+            "de":"Die Nachricht, die gespeichert werden soll."
         },
         "channel": {
-            "de":""
+            "de":"Der Kanal, der festgelegt werden soll."
         },
     }
 }
