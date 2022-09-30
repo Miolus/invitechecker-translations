@@ -27,3 +27,6 @@ See all locales at https://discord.com/developers/docs/reference#locales
   
 
 ## We are happy about anyone contributing!
+
+ All possible locales:
+ ![grafik](https://user-images.githubusercontent.com/69853686/193323837-fc2967c8-fd56-4da0-8351-afdca57a2f3e.png)
