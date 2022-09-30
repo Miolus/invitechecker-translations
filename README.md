@@ -10,7 +10,7 @@ Contribute to InviteChecker and translate it in your language!
 See all locales at https://discord.com/developers/docs/reference#locales
 
 `localizations.json` design:
-```json
+```
 {commands: {
     command_name:{
         language_key : "Translation"
@@ -22,6 +22,7 @@ See all locales at https://discord.com/developers/docs/reference#locales
       }
    }
 }
+```
     
   
 
