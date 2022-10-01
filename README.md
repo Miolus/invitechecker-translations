@@ -11,17 +11,21 @@ See all locales at https://discord.com/developers/docs/reference#locales
 
 `localizations.json` design:
 ```
-{commands: {
+cmd_desc =  {
     command_name:{
         language_key : "Description Translation"
     }
-  },
-  options: {
+  }
+options_desc = {
      option_name: {
         language_key : "Description Translation"
       }
    }
-}
+options_name = {
+     option_name: {
+        language_key : "Name Translation"
+      }
+   }
 ```
     
   
