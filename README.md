@@ -4,12 +4,12 @@ Contribute to InviteChecker and translate it in your language!
 ## How do I translate?
 
 1. Create a fork
-2. Edit `localizations.json`
+2. Edit `localizations.py`
 3. Create pull requests
 
 See all locales at https://discord.com/developers/docs/reference#locales
 
-`localizations.json` design:
+`localizations.py` design:
 ```
 cmd_desc =  {
     command_name:{
