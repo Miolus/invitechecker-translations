@@ -4,7 +4,7 @@ The contents of this file may be used publicly in the InviteChecker app.
 """
 cmd_desc = {
         "leaderboard": {
-            "de":"Zeige die Einladungs-Rangliste für deinen Server."
+            "de":"Zeige die Einladungs-Rangliste für deinen Server.",
             },
         "g_start": {
             "de":"Starte ein Giveaway."
